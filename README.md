@@ -4,9 +4,10 @@
 
 ### NIA 연안 분야 빅데이터 공모전 🏆장려상🏆 수상
 
+<div align='center'>
+  
 #### NIA 연안 분야 빅데이터 공모전 제출 영상🎬
 
-<div align='center'>
   
 [![Video Label](http://img.youtube.com/vi/7w37SZuJACM/0.jpg)](https://youtu.be/7w37SZuJACM)
 
